@@ -1,0 +1,13 @@
+ShortBRED log 
+Sat Nov  2 00:00:00 2024
+ SEARCH PARAMETERS 
+Match ID:0.95
+Pct Length for Match:0.95
+Sequences: Markers
+# FileName	size	format	extract method	tar file (if part of one)
+1: plugins/ShortBRED/example///wgs.fna	fasta	small		no_tar
+100
+Total Reads Processed: 100
+Average Read Length Specified by User: 100
+Average Read Length Calculated by ShortBRED: 100.0
+Min Read Length: 100
