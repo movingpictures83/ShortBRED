@@ -1,0 +1,5 @@
+goi	input_prots.faa
+ref	ref_prots.faa
+tmpid	tmp_example
+wgs	wgs.fna
+tmpquant	example_quantify

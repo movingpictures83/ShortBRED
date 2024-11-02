@@ -1,0 +1,2 @@
+Prefix plugins/ShortBRED/example/
+Plugin ShortBRED inputfile parameters.txt outputfile exampleresults.txt
